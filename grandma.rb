@@ -23,3 +23,4 @@ def speak_to_grandma(str)
   end
 
 end
+speak_to_grandma
